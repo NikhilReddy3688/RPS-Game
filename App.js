@@ -1,4 +1,4 @@
-window.prompt("enter you Nick Name");
+
 let userScore=0;
 let compScore=0;
 
